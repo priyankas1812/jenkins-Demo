@@ -15,3 +15,4 @@ for (let i = 1; i <= 100; i++) {
 console.log("Sum of first 100 numbers:", sum);
 console.log("Count of even numbers:", evenCount);
 console.log("Count of odd numbers:", oddCount);
+console.log("the demo for jenkins project");
