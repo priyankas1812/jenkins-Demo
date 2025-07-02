@@ -1,6 +1,6 @@
 # test_division.py
 a = 10
-b = 0 # change this to 0 to simulate a failure
+b = 2# change this to 0 to simulate a failure
 
 try:
     result = a / b
