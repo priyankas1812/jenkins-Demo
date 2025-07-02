@@ -1,6 +1,6 @@
 # test_division.py
 a = 10
-b = 2
+b = 0
 
 try:
     result = a / b
